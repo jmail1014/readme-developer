@@ -1,5 +1,5 @@
 
-  ![](https://img.shields.io/badge/license-javaScript-green)
+  ![](https://img.shields.io/badge/license--green)
 
   # Your Project Title 
     
@@ -21,7 +21,7 @@
   ## Usage
 
   ## License 
-    javaScript
+    
 
   ## Contributing
     

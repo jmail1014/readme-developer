@@ -60,7 +60,7 @@ questions()
 .then(answers => {
     console.log(answers)
     generateMd(answers)
-    writeToFile('readme.md', generateMd(answers));
+    writeToFile('generateReadMe.md', generateMd(answers));
 });
 
 
