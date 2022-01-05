@@ -1,33 +1,16 @@
 
-  ![](https://img.shields.io/badge/license-javaScript-green)
 
-  # Your Project Title 
+  # Project Title: 
+    README developer
     
 
-  ## Description
-    
+  ## Description:
+     An interactive command-line application using server-side JavaScript (Node.js) and npm to install third-party dependencies, such as inquirer. 
 
-  ## Table of Contents
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [License](#license)
-    * [Contributing](#contributing)
-    * [Tests](#tests)
-    * [Questions](#questions)
+     The command-line asks users a series of questions that will generate those answers into a readme file.
 
-  ## Installation 
-    
+  ## GitHub Pages:
+    https://jmail1014.github.io/readme-developer/
 
-  ## Usage
+![readmescreenshot](https://user-images.githubusercontent.com/45181939/148303897-40ed757f-0b4e-4173-bb1d-e7458f60153a.png)
 
-  ## License 
-    javaScript
-
-  ## Contributing
-    
-
-  ## Tests
-    
-
-  ## Questions
-    undefined
